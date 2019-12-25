@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoGrpcService", "ToDoGrpc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerSide", "BlazorClient\BlazorServerSide.csproj", "{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssembly", "BlazorDemo\BlazorWebAssembly.csproj", "{11E7CEA1-3F4B-487D-891A-115D9BADF1E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E7CEA1-3F4B-487D-891A-115D9BADF1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E7CEA1-3F4B-487D-891A-115D9BADF1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E7CEA1-3F4B-487D-891A-115D9BADF1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E7CEA1-3F4B-487D-891A-115D9BADF1E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

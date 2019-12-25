@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoGrpcService", "ToDoGrpcService\ToDoGrpcService.csproj", "{9131736C-D446-4449-B1A5-5E87940E4790}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorClient", "BlazorClient\BlazorClient.csproj", "{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerSide", "BlazorClient\BlazorServerSide.csproj", "{FCF609D6-45CB-40D4-A683-8B1EEE4BD70C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
